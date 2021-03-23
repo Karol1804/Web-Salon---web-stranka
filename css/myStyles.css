@@ -1,0 +1,282 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+	background: url(images/pozadie.jpg) no-repeat center center fixed;
+	background-size: cover;
+	 -webkit-background-size: cover;
+	 -moz-background-size: cover;
+    
+}
+#mainWraper{
+	background-color: #fff;
+	width: 990px;
+	margin: auto;
+	
+}
+
+
+#menu a:hover{
+	border-bottom: 2px solid;
+	
+}	
+	
+.floatLeft{
+	float: left;
+}
+
+.floatRight{
+	float: right;
+}
+.zrusObtekanie{
+	clear: both;
+}
+
+	
+
+#menu {
+	border-top: solid 5px #ac39ac;
+	margin-top: 20px;
+	height: 100px;
+}
+
+	
+
+#logo{
+	width: 590px;
+	
+	
+	
+}
+#uvod{
+	width: 100px;
+	height: 70px;
+	text-align: center;
+    margin-top: 40px;
+	
+	
+	
+}
+#uvod a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #ac39ac;
+	font-size: 20px;
+	
+}
+
+
+#sluzby{
+	width: 100px;
+	height: 70px;
+	text-align: center;
+    margin-top: 40px;
+	color: #ac39ac;
+	
+	
+}
+#sluzby a{
+	color: #ac39ac;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+}
+#cennik{
+	width: 100px;
+	height: 70px;
+	text-align: center;
+    margin-top: 40px;
+	color: #ac39ac;
+	
+	
+}
+#cennik a{
+	color: #ac39ac;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 20px;
+}
+#kontakt{
+	width: 100px;
+	height: 70px;
+	text-align: center;
+    margin-top: 40px;
+	color: #ac39ac;
+	
+	
+	
+}
+#kontakt a{
+	color: #ac39ac;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+
+
+
+#Slogan{
+    margin-top: 14px;
+    background-color: #e6ffff;	
+}
+
+#bannerLeft{
+	text-align: center;
+	width: 550px;
+	padding-right: 40px;
+	
+	
+}
+#bannerLeft h1{
+	padding-top: 80px;
+	color: #ac39ac;
+	font-size: 40px;
+	
+} 
+#bannerLeft p{ 
+	font: italic bold 16px Georgia,serif;
+}
+#bannerRight img{
+	margin-bottom: -3px;
+	
+	
+}
+
+
+
+#Sluzby{
+	text-align: center;
+	color: #ac39ac;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	
+	
+}
+#Kadernictvo img{
+	padding-left: 24px;
+	
+}
+
+#Nechty img {
+		padding-left: 24px;
+	
+	}
+	
+#Tatto img{
+	padding-right: 24px;
+	
+}
+#Kadernictvo p{
+	text-align: center;
+	background-color: #ac39ac;
+	height: 30px;
+	padding-top: 15px;
+	font: italic bold 16px Georgia,serif;
+	margin-left: 24px;
+}
+	
+#Nechty p{
+		background-color: #ac39ac;
+		margin-left: 24px;
+		text-align: center;
+	    height: 30px;
+		padding-top: 15px;
+		font: italic bold 16px Georgia,serif;
+}
+
+
+#Tatto p{
+	text-align: center;
+	background-color: #ac39ac;
+	height: 30px;
+	padding-top: 15px;
+	margin-right: 24px;
+	font: italic bold 16px Georgia,serif;
+}
+#Cennik{
+	background-color: #e6ffff;
+	padding-bottom: 40px;
+	
+	
+}
+
+
+#Cennik h1{
+	text-align: center;
+	color: #ac39ac;
+	font-weight: bold;
+	font-size: 40px;
+	margin-bottom: 40px;
+	padding-top: 30px;
+	
+}
+#Cennik span{
+	font-weight: bold;
+	padding-left: 10px;
+
+	
+}
+#Cennik table{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+
+#Kontakt h1 {
+	text-align: center;
+	color: #ac39ac;
+	font-weight: bold;
+	font-size: 40px;
+	margin-bottom: 40px;
+}
+
+
+#mapa{
+	width: 495px;
+}
+#kontaktneinfo{
+	width: 495px;
+	background-color: #e6ffff;
+	height: 450px;
+	padding-bottom: -20px;
+	
+}
+
+
+#Kontakt h3{
+	margin-top: 60px;
+	margin-bottom: -5px;
+	padding-left: 10px;
+}
+
+#Kontakt p{
+	margin-top: -5px;
+	padding-left: 10px;
+	margin-bottom: 10px;
+}
+#Peticka{
+	padding-top: 30px;
+	margin-top: 50px;
+	background-color: #ac39ac;	
+	text-align: center;
+	height: 50px;
+}
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+	
+
+
+
